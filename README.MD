@@ -1,3 +1,3 @@
 # open AI API 사용해보기 
 
-<a>https://openai.com/</a> 
+<a>https://openai.com/</a>      
